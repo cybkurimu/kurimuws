@@ -1,4 +1,9 @@
-### Hi there 👋
+**About Me**
+- 📖 Blog: https://blog.xxm.moe
+- 🛰 Github: https://github.com/hitoriskurimu
+- 📧 Email: hitoriskurimu@outlook.com
+
+"April showers bring May flowers."
 
 <!--
 **Hit0ris/Hit0ris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
