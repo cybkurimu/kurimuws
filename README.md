@@ -1,7 +1,7 @@
 **About Me**
 - 📖 Blog: https://blog.xxm.moe
-- 🛰 Github: https://github.com/hitoriskurimu
-- 📧 Email: hitoriskurimu@outlook.com
+- 🛰 Github: https://github.com/kurimuws
+- 📧 Email: kurimuws@outlook.com
 
 "April showers bring May flowers."
 
